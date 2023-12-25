@@ -6,11 +6,14 @@
     python3 -m venv
     source venv/bin/activate
     ```
-Once (venv) is active: 
-    ``` pip -r requirements.txt```
+Once (venv) is active:
 
-2. Edit parameters in app.py and save the file.
-3. Run the application
+`
+    python3 app.py
+`
+
+1. Edit parameters in app.py and save the file.
+2. Run the application
    
     ```
     python3 app.py
