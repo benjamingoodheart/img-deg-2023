@@ -7,10 +7,7 @@
     source venv/bin/activate
     ```
 Once (venv) is active: 
-
-    ```
-    pip -r requirements.txt
-    ```
+    ``` pip -r requirements.txt```
 
 2. Edit parameters in app.py and save the file.
 3. Run the application
